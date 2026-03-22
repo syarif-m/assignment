@@ -1,2 +1,2 @@
 # Modul 3
-Pemlan
+Isi repository ini adalah modul 3 dari praktikum pemrograman lanjut.
